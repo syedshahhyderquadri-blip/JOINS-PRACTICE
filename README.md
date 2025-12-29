@@ -10,7 +10,7 @@ MENTOR:NEELA SANTOSH
 #I HAVE USED ORACLE DATABASE 10G FOR COMPLETING THE TASK 
 
 #OUTPUT OF TASK1 (INNER,LEFT,RIGHT,FULL JOIN )
-<img width="565" height="259" alt="Image" src="https://github.com/user-attachments/assets/6ad06b36-28e1-4015-8ef1-b3006f752cd6" />
+
 
 <img width="545" height="149" alt="Image" src="https://github.com/user-attachments/assets/949b693b-d107-4bcd-9f7f-94de5e36a646" />
 
